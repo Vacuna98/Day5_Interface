@@ -8,11 +8,13 @@ namespace Day5_Interface.Services
 {
     public interface IStudentService
     {
-         public List<StudentModel> GetStudents();
+         StudentModel AddStudent (StudentModel newStudent); //CREATE
 
+         public List<StudentModel> GetStudents(); //READ
+         StudentModel? GetStudentById(int id); //READ
 
+         StudentModel? UpdateStudent (int id, StudentModel updatedStudent); //UPDATE
 
-
-    public bool AddStudent(StudentModel studentToAdd);
+         bool DeleteStudent(int id); //DELETE
     }
 }
