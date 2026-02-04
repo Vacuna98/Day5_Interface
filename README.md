@@ -1,3 +1,25 @@
+Vanessa Acuna
+
+2/4/26
+
+Mini Challenge #7 
+
+Adding Interface(model), StudentServices, and StudentController
+
+Person who Peer Reviewed:
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Project: “Device Checkout API” (IT Lab Inventory)
 
 ## Goal
