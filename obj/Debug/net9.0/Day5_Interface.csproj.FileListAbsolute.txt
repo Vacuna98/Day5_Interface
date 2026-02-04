@@ -33,3 +33,4 @@
 /Users/vanessaacuna/Documents/CodeStack/Level2/Week_3/Day5_Interface/obj/Debug/net9.0/Day5_Interface.pdb
 /Users/vanessaacuna/Documents/CodeStack/Level2/Week_3/Day5_Interface/obj/Debug/net9.0/Day5_Interface.genruntimeconfig.cache
 /Users/vanessaacuna/Documents/CodeStack/Level2/Week_3/Day5_Interface/obj/Debug/net9.0/ref/Day5_Interface.dll
+/Users/vanessaacuna/Documents/CodeStack/Level2/Week_3/Day5_Interface/obj/Debug/net9.0/Day5_Interface.sourcelink.json

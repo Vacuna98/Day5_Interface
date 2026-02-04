@@ -10,7 +10,7 @@ namespace Day5_Interface.Services
     {
          StudentModel AddStudent (StudentModel newStudent); //CREATE
 
-         public List<StudentModel> GetStudents(); //READ
+         List<StudentModel> GetStudents(); //READ
          StudentModel? GetStudentById(int id); //READ
 
          StudentModel? UpdateStudent (int id, StudentModel updatedStudent); //UPDATE
