@@ -6,7 +6,7 @@ Mini Challenge #7
 
 Adding Interface(model), StudentServices, and StudentController
 
-Person who Peer Reviewed:
+Person who Peer Reviewed: Brandon Van Horn - Looks good all the endpoints work but i had a issue with both puts maybe i did them wrong or something but i couldnt get either of them to work for some reason 
 
 
 
